@@ -11,15 +11,15 @@ Este análisis fue desarrollado como parte de mi proceso de aprendizaje dentro d
 
 A través del análisis exploratorio de datos se buscaron responder preguntas de negocio como:
 
-¿Qué categorías de productos generan más ingresos?
+  - ¿Qué categorías de productos generan más ingresos?
 
-¿Cuál es el perfil de los compradores según género y edad?
+  -¿Cuál es el perfil de los compradores según género y edad?
 
-¿Existen diferencias en el comportamiento de compra entre centros comerciales?
+  - ¿Existen diferencias en el comportamiento de compra entre centros comerciales?
 
-¿Qué métodos de pago son los más utilizados?
+  - ¿Qué métodos de pago son los más utilizados?
 
-¿Existen patrones o tendencias temporales en las ventas?
+  - ¿Existen patrones o tendencias temporales en las ventas?
 
 ### Dataset
 
