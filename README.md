@@ -13,7 +13,7 @@ A través del análisis exploratorio de datos se buscaron responder preguntas de
 
   - ¿Qué categorías de productos generan más ingresos?
 
-  -¿Cuál es el perfil de los compradores según género y edad?
+  - ¿Cuál es el perfil de los compradores según género y edad?
 
   - ¿Existen diferencias en el comportamiento de compra entre centros comerciales?
 
@@ -25,27 +25,27 @@ A través del análisis exploratorio de datos se buscaron responder preguntas de
 
 El dataset contiene información de transacciones realizadas en 10 centros comerciales de Estambul.
 
-Variables principales
+#### Variables principales
 
-invoice_no → identificador de transacción
+  - invoice_no → identificador de transacción
 
-customer_id → identificador de cliente
+  - customer_id → identificador de cliente
 
-gender → género del cliente
+  - gender → género del cliente
 
-age → edad del cliente
+  - age → edad del cliente
 
-category → categoría del producto
+  - category → categoría del producto
 
-quantity → cantidad de productos comprados
+  - quantity → cantidad de productos comprados
 
-price → valor total de la transacción
+  - price → valor total de la transacción
 
-payment_method → método de pago
+  - payment_method → método de pago
 
-invoice_date → fecha de la compra
+  - invoice_date → fecha de la compra
 
-shopping_mall → centro comercial donde se realizó la compra
+  - shopping_mall → centro comercial donde se realizó la compra
 
 ### Proceso de análisis
 
@@ -53,74 +53,58 @@ El análisis se desarrolló siguiendo un flujo típico de análisis de datos:
 
 #### Comprensión de los datos
 
-Exploración inicial del dataset
+  - Exploración inicial del dataset
 
-Identificación de tipos de datos
+  - Identificación de tipos de datos
 
-Revisión de estructura y variables
+  - Revisión de estructura y variables
 
 #### Limpieza de datos
 
-Conversión del campo invoice_date a formato fecha
+  - Conversión del campo invoice_date a formato fecha
 
-Verificación de valores nulos
+  - Verificación de valores nulos
 
-Validación de registros duplicados
+  - Validación de registros duplicados
 
 #### Análisis exploratorio de datos (EDA)
 
-Se analizaron distintas dimensiones del negocio:
+  - Se analizaron distintas dimensiones del negocio:
 
-Ventas por categoría de producto
+  - Ventas por categoría de producto
 
-Ventas por género
+  - Ventas por género
 
-Ventas por rango de edad
+  - Ventas por rango de edad
 
-Métodos de pago más utilizados
+  - Métodos de pago más utilizados
 
-Ventas por periodo de tiempo
+  - Ventas por periodo de tiempo
 
-Ventas por centro comercial
+  - Ventas por centro comercial
 
 ### Principales insights
 
 Algunos hallazgos relevantes del análisis:
 
-Clothing es la categoría con mayor volumen de ventas, representando cerca del 45% del total.
+  - Clothing es la categoría con mayor volumen de ventas, representando cerca del 45% del total.
 
-Los clientes femeninos generan aproximadamente 60% de las ventas.
+  - Los clientes femeninos generan aproximadamente 60% de las ventas.
 
-El grupo de edad con mayor participación en compras es 35-44 años, aunque el consumo está relativamente distribuido entre 25-54 años.
+  - El grupo de edad con mayor participación en compras es 35-44 años, aunque el consumo está relativamente distribuido entre 25-54 años.
 
-El efectivo es el método de pago más utilizado, seguido por tarjeta de crédito.
+  - El efectivo es el método de pago más utilizado, seguido por tarjeta de crédito.
 
-Los centros comerciales Mall of Istanbul y Kanyon concentran cerca del 40% de las ventas totales.
+  - Los centros comerciales Mall of Istanbul y Kanyon concentran cerca del 40% de las ventas totales.
 
-El comportamiento de compra por categoría es similar entre los distintos centros comerciales.
+  - El comportamiento de compra por categoría es similar entre los distintos centros comerciales.
 
 ### Herramientas utilizadas
 
-Python
+  - Python
 
-Pandas
+  - Pandas
 
-Matplotlib
+  - Matplotlib
 
-Jupyter Notebook
-
-### Próximos pasos
-
-Como extensión del proyecto se planea:
-
-Crear un dashboard interactivo en Tableau
-
-Profundizar en segmentación de clientes
-
-Analizar ticket promedio por cliente
-
-### 👩🏻‍💻 Sobre mí
-
-Soy egresada de Sistemas de Información y actualmente me estoy especializando en Análisis de Datos y Business Intelligence.
-
-Me interesa utilizar los datos para entender problemas de negocio y generar insights que apoyen la toma de decisiones.
+  - Jupyter Notebook
