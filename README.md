@@ -99,9 +99,27 @@ Algunos hallazgos relevantes del análisis:
 
   - El comportamiento de compra por categoría es similar entre los distintos centros comerciales.
 
-### Dashboard interactivo desarrollado en Tableau para analizar patrones de consumo y ventas.
+### Dashboard en Tableau
 
-https://public.tableau.com/views/DashboarddeanlisisdeventasretailEstambul/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Como complemento del análisis, desarrollé un dashboard interactivo en Tableau Public enfocado en visualizar patrones de consumo y ventas.
+
+El dashboard permite explorar:
+
+  - Ventas por categoría
+
+  - Segmentación por género y edad
+
+  - Métodos de pago
+
+  - Tendencias a lo largo del tiempo
+
+  - Comparación por centros comerciales
+
+🔗 Ver dashboard:
+https://public.tableau.com/views/DashboarddeanlisisdeventasretailEstambul/Dashboard1
+
+<img width="1998" height="1598" alt="Dashboard 1" src="https://github.com/user-attachments/assets/0521bb04-e41b-4fde-b86d-a8d454a37d9f" />
+
 
 ### Herramientas utilizadas
 
